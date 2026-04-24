@@ -12,3 +12,18 @@
 /home/lilbfvtine/CSharpStack/StackProject/obj/Debug/net10.0/StackProject.pdb
 /home/lilbfvtine/CSharpStack/StackProject/obj/Debug/net10.0/StackProject.genruntimeconfig.cache
 /home/lilbfvtine/CSharpStack/StackProject/obj/Debug/net10.0/ref/StackProject.dll
+C:\Users\anton\Desktop\Stackproject\Рабочий стол\CSharpStack\StackProject\obj\Debug\net10.0\StackProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\Stackproject\Рабочий стол\CSharpStack\StackProject\obj\Debug\net10.0\StackProject.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\Stackproject\Рабочий стол\CSharpStack\StackProject\obj\Debug\net10.0\StackProject.AssemblyInfo.cs
+C:\Users\anton\Desktop\Stackproject\Рабочий стол\CSharpStack\StackProject\obj\Debug\net10.0\StackProject.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Stackproject\Рабочий стол\CSharpStack\StackProject\obj\Debug\net10.0\StackProject.sourcelink.json
+C:\Users\anton\Desktop\Stackproject\Рабочий стол\CSharpStack\StackProject\obj\Debug\net10.0\StackProject.dll
+C:\Users\anton\Desktop\Stackproject\Рабочий стол\CSharpStack\StackProject\obj\Debug\net10.0\refint\StackProject.dll
+C:\Users\anton\Desktop\Stackproject\Рабочий стол\CSharpStack\StackProject\obj\Debug\net10.0\StackProject.pdb
+C:\Users\anton\Desktop\Stackproject\Рабочий стол\CSharpStack\StackProject\bin\Debug\net10.0\StackProject.exe
+C:\Users\anton\Desktop\Stackproject\Рабочий стол\CSharpStack\StackProject\bin\Debug\net10.0\StackProject.deps.json
+C:\Users\anton\Desktop\Stackproject\Рабочий стол\CSharpStack\StackProject\bin\Debug\net10.0\StackProject.runtimeconfig.json
+C:\Users\anton\Desktop\Stackproject\Рабочий стол\CSharpStack\StackProject\bin\Debug\net10.0\StackProject.dll
+C:\Users\anton\Desktop\Stackproject\Рабочий стол\CSharpStack\StackProject\bin\Debug\net10.0\StackProject.pdb
+C:\Users\anton\Desktop\Stackproject\Рабочий стол\CSharpStack\StackProject\obj\Debug\net10.0\StackProject.genruntimeconfig.cache
+C:\Users\anton\Desktop\Stackproject\Рабочий стол\CSharpStack\StackProject\obj\Debug\net10.0\ref\StackProject.dll

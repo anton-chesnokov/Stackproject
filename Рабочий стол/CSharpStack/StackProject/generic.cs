@@ -24,3 +24,4 @@ public void Enqueue (T value)
             tail = item;
         }
     }
+}
